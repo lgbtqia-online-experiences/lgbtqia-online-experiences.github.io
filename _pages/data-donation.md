@@ -5,15 +5,13 @@ permalink: /data-donation/
 toc: true
 ---
 
-Thank you for your interest in taking part in the data donation component of this project.
-
-If you completed the survey and agreed to be contacted for the next stage, this is the **second part of the study**.
+Thank you for your interest in taking part in the data donation.
 
 ## What is data donation?
 
-Data donation is a research method in which participants request a copy of their data from a social media platform and choose whether to share relevant parts of it for research. These copies are often provided by platforms as **Data Download Packages**. In this study, the tool processes the downloaded file on your own device, extracts only the information needed for the research, and lets you review it before deciding whether to donate it. 
+Data donation is a research method in which participants request a copy of their data from a social media platform and choose whether to share relevant parts of it for research. These copies are often provided by platforms as **Data Download Packages (DDP)**. 
 
-For this project, we only use a limited selection of activity including ads you viewed, posts and comments you liked, comments you made, and posts you viewed on **public accounts**.
+In this study, our tool processes the downloaded file on your own device, and extracts only the information needed for the research. This is a limited selection of activity including ads you viewed, posts and comments you liked, comments you made, and posts you viewed.
 
 ## Participation is voluntary
 
