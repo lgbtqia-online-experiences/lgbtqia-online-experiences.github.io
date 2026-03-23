@@ -20,9 +20,49 @@ You will be guided through the process of accessing and exporting your data from
 
 ## Instructions 
 
+### Desktop instructions
 
- 
+<div style="margin: 2rem 0;">
+  <object
+    data="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="900">
+    <p>
+      Your browser may not display the PDF on this page.
+      <a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" target="_blank" rel="noopener">Open the PDF</a>
+      or
+      <a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" download>download it</a>.
+    </p>
+  </object>
+</div>
 
+<p>
+  <a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" target="_blank" rel="noopener">Open in a new tab</a> ·
+  <a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" download>Download PDF</a>
+</p>
+
+### Phone instructions
+
+<div style="margin: 2rem 0;">
+  <object
+    data="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="900">
+    <p>
+      Your browser may not display the PDF on this page.
+      <a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" target="_blank" rel="noopener">Open the PDF</a>
+      or
+      <a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" download>download it</a>.
+    </p>
+  </object>
+</div>
+
+<p>
+  <a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" target="_blank" rel="noopener">Open in a new tab</a> ·
+  <a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" download>Download PDF</a>
+</p>
 
 ## Donate your data
 
