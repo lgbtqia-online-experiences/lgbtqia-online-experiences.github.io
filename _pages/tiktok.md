@@ -20,9 +20,15 @@ You will be guided through the process of accessing and exporting your data from
 
 ## Instructions 
 
-### Desktop instructions
+### Desktop
 
-### Phone instructions
+<a href="{{ '/assets/images/TikTok_instructions_desktop.pdf' | relative_url }}" download>Download PDF</a>
+
+### Phone
+
+<a href="{{ '/assets/images/TikTok_instructions_phone.pdf' | relative_url }}" download>Download PDF</a>
+
+### Video
 
 ## Donate your data
 
