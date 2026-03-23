@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "LGBTQIA+ online experiences"
+masthead_title: " "
 name: "LGBTQIA+ online experiences"
-email: "a.f.dasilvapinho@uva.nl"
+email: "af.dasilvapinho@uva.nl"
 description: >-
   Research project exploring social media use, online experiences, and
   well-being among LGBTQIA+ communities, including a survey and a
