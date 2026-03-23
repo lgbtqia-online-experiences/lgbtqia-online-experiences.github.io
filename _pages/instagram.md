@@ -18,11 +18,15 @@ Before beginning, please make sure you have:
 
 You will be guided through the process of accessing and exporting your data from Instagram. 
 
-## Instructions 
+## Instructions
 
-### Desktop instructions
+### Desktop
+[Open PDF in new tab]({{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }})
+[Download PDF]({{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }})
 
-### Phone instructions
+### Phone
+[Open PDF in new tab]({{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }})
+[Download PDF]({{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }})
 
 ## Donate your data
 
