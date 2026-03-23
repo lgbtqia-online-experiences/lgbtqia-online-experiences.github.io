@@ -21,12 +21,14 @@ You will be guided through the process of accessing and exporting your data from
 ## Instructions
 
 ### Desktop
-[Open PDF in new tab]({{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }})
-[Download PDF]({{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }})
+
+<a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF in new tab</a> |
+<a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" download>Download PDF</a>
 
 ### Phone
-[Open PDF in new tab]({{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }})
-[Download PDF]({{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }})
+
+<a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF in new tab</a> |
+<a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" download>Download PDF</a>
 
 ## Donate your data
 
