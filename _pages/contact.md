@@ -1,6 +1,9 @@
 ---
-permalink: /contact/
 title: "Contact"
+layout: single
+permalink: /contact/
+toc: false
+toc_sticky: false
 ---
 
 **Researcher:** [Ana da Silva Pinho](https://psyres.uva.nl/profile/d/a/a.f.da-silva-pinho/a.f.da-silva-pinho.html)
