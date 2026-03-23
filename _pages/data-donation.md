@@ -36,7 +36,7 @@ Participants who opt in will be entered into a prize draw: for every 100 opt-ins
 
 [Open the data donation tool](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
 
-## Before you begin: platform-specific instructions
+## Before you begin platform-specific instructions
 
 Before using the tool, please read the instructions for the platform you want to donate data from:
 
