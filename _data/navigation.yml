@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+    url: /
+  - title: "About the Study"
     url: /about/
+  - title: "Data Donation"
+    url: /data-donation/
+  - title: "Instagram"
+    url: /instagram/
+  - title: "TikTok"
+    url: /tiktok/
+  - title: "YouTube"
+    url: /youtube/
+  - title: "Contact"
+    url: /contact/
