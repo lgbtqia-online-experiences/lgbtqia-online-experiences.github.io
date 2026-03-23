@@ -32,7 +32,7 @@ Participants who opt in will be entered into a prize draw: for every 100 opt-ins
   </video>
 </div>
 
-## Data donation tool:
+## Data donation tool
 
 [Open the data donation tool](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
 
