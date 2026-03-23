@@ -13,7 +13,7 @@ Before beginning, please make sure you have:
 - completed the survey or signed up for the study
 - read the information on the Data Donation page
 - access to your TikTok account
-- 
+  
 ## How it works
 
 You will be guided through the process of accessing and exporting your data from TikTok. 
