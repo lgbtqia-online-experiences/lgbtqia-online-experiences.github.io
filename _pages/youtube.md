@@ -20,8 +20,11 @@ You will be guided through the process of accessing and exporting your data from
 
 ## Instructions 
 
-### Desktop instructions
+### Desktop 
 
+<a href="{{ '/assets/images/YouTube_instructions_PC_Mac.pdf' | relative_url }}" download>Download PDF</a>
+
+### Video
 
 ## Donate your data
 
