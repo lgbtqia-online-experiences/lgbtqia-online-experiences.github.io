@@ -1,8 +1,30 @@
 ---
+title: "About the Study"
+layout: single
 permalink: /about/
-title: "About"
+toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This research project explores the online experiences of LGBTQIA+ people, focusing on social media use, relationships, and well-being.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The aim is to deepen understanding of life in digital spaces and to ensure research is grounded in the perspectives and realities of LGBTQIA+ communities.
+
+## What does participation involve?
+
+Participation in this project takes place in two stages:
+
+1. **Survey**  
+   In the first part of the study, participants complete a survey about their social media use, online experiences, and well-being.
+
+2. **Data Donation**  
+   In the second part, participants who signed up are then invited to contribute their social media data.
+
+## Why is this important?
+
+Social media data donation gives researchers deeper insight into how LGBTQIA+ people experience online spaces.
+
+## Survey link
+
+If you have not yet completed the survey, you can do so here:
+
+[Complete the survey](https://uva.fra1.qualtrics.com/jfe/form/SV_cAyrM3syhnVgVpQ)
