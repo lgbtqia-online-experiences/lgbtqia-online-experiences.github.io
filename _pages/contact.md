@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-**Researcher:** Ana da Silva Pinho
+**Researcher:** [Ana da Silva Pinho](https://psyres.uva.nl/profile/d/a/a.f.da-silva-pinho/a.f.da-silva-pinho.html)
 
 [<i class="fas fa-solid fa-at"></i> a.f.dasilvapinho@uva.nl](mailto:a.f.dasilvapinho@uva.nl)  
 
