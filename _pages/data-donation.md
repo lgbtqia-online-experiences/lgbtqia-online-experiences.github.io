@@ -27,9 +27,11 @@ Participants who opt in will be entered into a prize draw: for every 100 opt-ins
 
 **Watch the video below to learn how data donation tool works.**
 
-<video controls width="500" height="500">
-  <source src="assets/images/Qualtrics_instructions.mp4" type="video/mp4">
+<video controls width="600" height="500">
+  <source src="{{ '/assets/images/Qualtrics_instructions.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+## Data donation tool:
 
 [Open the data donation tool](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
 
