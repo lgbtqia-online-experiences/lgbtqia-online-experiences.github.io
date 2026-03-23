@@ -23,6 +23,16 @@ Taking part is entirely voluntary. You are free to stop at any time and do not h
 
 Participants who opt in will be entered into a prize draw: for every 100 opt-ins, one €100 Amazon gift voucher (or local equivalent) will be awarded.
 
+## Instructions data donation tool
+
+**Watch the video below to learn how data donation tool works.**
+
+<video controls width="500" height="500">
+  <source src="assets/images/Qualtrics_instructions.mp4" type="video/mp4">
+</video>
+
+[Open the data donation tool](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
+
 ## Before you begin: platform-specific instructions
 
 Before using the tool, please read the instructions for the platform you want to donate data from:
@@ -31,15 +41,7 @@ Before using the tool, please read the instructions for the platform you want to
 - [TikTok](/tiktok/)
 - [YouTube](/youtube/)
 
-## Instructions data donation tool
 
-**Watch the video below to learn how data donation tool works.**
-
-<video controls width="900">
-  <source src="assets/images/Qualtrics_instructions.mp4" type="video/mp4">
-</video>
-
-[Open the data donation tool](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
 
 
 
