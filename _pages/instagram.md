@@ -22,13 +22,15 @@ You will be guided through the process of accessing and exporting your data from
 
 ### Desktop
 
-<a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF in new tab</a> |
 <a href="{{ '/assets/images/Instagram_instructions_desktop.pdf' | relative_url }}" download>Download PDF</a>
 
 ### Phone
 
-<a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" target="_blank" rel="noopener">Open PDF in new tab</a> |
 <a href="{{ '/assets/images/Instagram_instructions_phone.pdf' | relative_url }}" download>Download PDF</a>
+
+### Video
+
+
 
 ## Donate your data
 
