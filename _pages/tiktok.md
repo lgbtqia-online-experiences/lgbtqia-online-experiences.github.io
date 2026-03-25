@@ -35,10 +35,11 @@ You will be guided through the process of accessing and exporting your data from
 
 **Watch the video below to learn how tp export TikTok data.**
 <div style="text-align: center; margin: 2rem 0;">
-  <video controls style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;">
+  <video controls style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;">
     <source src="{{ '/assets/TikTok_instructions.mp4' | relative_url }}" type="video/mp4">
   </video>
 </div>
+
 ## Donate your data
 
 [Donate your data here](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
