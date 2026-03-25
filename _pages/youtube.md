@@ -26,6 +26,13 @@ You will be guided through the process of accessing and exporting your data from
 
 ### Video
 
+**Watch the video below to learn how to export Youtube data.**
+<div style="text-align: center; margin: 2rem 0;">
+  <video controls style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;">
+    <source src="{{ '/assets/images/Youtube_instructions.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
 ## Donate your data
 
 [Donate your data here](https://uva.fra1.qualtrics.com/jfe/form/SV_0unPEPXEC7qe5jo)
