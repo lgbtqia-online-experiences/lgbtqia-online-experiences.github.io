@@ -29,6 +29,56 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+<style>
+.page__hero--overlay {
+  position: relative;
+}
+
+.uva-logo-link {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  z-index: 30;
+  display: inline-block;
+}
+
+.uva-logo-link img {
+  height: 44px;
+  width: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .uva-logo-link {
+    top: 10px;
+    left: 12px;
+  }
+
+  .uva-logo-link img {
+    height: 34px;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const hero = document.querySelector(".page__hero--overlay");
+  if (!hero || hero.querySelector(".uva-logo-link")) return;
+
+  const link = document.createElement("a");
+  link.href = "https://www.uva.nl";
+  link.className = "uva-logo-link";
+  link.setAttribute("aria-label", "University of Amsterdam");
+
+  const img = document.createElement("img");
+  img.src = "/assets/images/download.png";
+  img.alt = "UvA logo";
+
+  link.appendChild(img);
+  hero.appendChild(link);
+});
+</script>
+
 {% include feature_row id="intro" type="center" %}
 
 <h2>Welcome</h2>
