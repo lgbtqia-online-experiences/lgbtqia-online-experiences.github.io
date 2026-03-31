@@ -30,44 +30,41 @@ feature_row:
 ---
 
 <style>
-.page__hero--overlay {
-  position: relative;
-}
-
-.uva-logo-link {
-  position: absolute;
-  top: 14px;
-  left: 18px;
-  z-index: 30;
+.uva-logo-below-text {
+  margin-top: 18px;
   display: inline-block;
 }
 
-.uva-logo-link img {
-  height: 44px;
+.uva-logo-below-text img {
+  height: 52px;
   width: auto;
   display: block;
+  background: white;
+  padding: 6px 10px;
+  border-radius: 4px;
 }
 
 @media (max-width: 768px) {
-  .uva-logo-link {
-    top: 10px;
-    left: 12px;
+  .uva-logo-below-text {
+    margin-top: 14px;
   }
 
-  .uva-logo-link img {
-    height: 34px;
+  .uva-logo-below-text img {
+    height: 40px;
+    padding: 5px 8px;
   }
 }
 </style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const hero = document.querySelector(".page__hero--overlay");
-  if (!hero || hero.querySelector(".uva-logo-link")) return;
+  const lead = document.querySelector(".page__hero--overlay .page__lead");
+  if (!lead) return;
+  if (document.querySelector(".uva-logo-below-text")) return;
 
   const link = document.createElement("a");
   link.href = "https://www.uva.nl";
-  link.className = "uva-logo-link";
+  link.className = "uva-logo-below-text";
   link.setAttribute("aria-label", "University of Amsterdam");
 
   const img = document.createElement("img");
@@ -75,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
   img.alt = "UvA logo";
 
   link.appendChild(img);
-  hero.appendChild(link);
+  lead.insertAdjacentElement("afterend", link);
 });
 </script>
 
