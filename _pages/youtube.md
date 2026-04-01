@@ -12,7 +12,7 @@ This page provides guidance for participants who wish to donate **Youtube data**
 Before beginning, please make sure you have:
 - completed the survey or signed up for the study
 - read the information on the Data Donation page
-- access to your Instagram account
+- access to your YouTube account
 
 ## How it works
 
