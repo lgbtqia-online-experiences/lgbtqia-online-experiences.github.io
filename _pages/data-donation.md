@@ -17,9 +17,11 @@ In this study, our tool processes the downloaded file on your own device, and ex
 
 Taking part is entirely voluntary. You are free to stop at any time and do not have to continue if you change your mind.
 
-## Compensation
+<!---
+//## Compensation
 
-Participants who opt in will be entered into a prize draw: for every 100 opt-ins, one €100 Amazon gift voucher (or local equivalent) will be awarded.
+//Participants who opt in will be entered into a prize draw: for every 100 opt-ins, one €100 Amazon gift voucher (or local equivalent) will be awarded.
+-->
 
 ## Instructions data donation tool
 
