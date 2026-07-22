@@ -28,7 +28,7 @@ Taking part is entirely voluntary. You are free to stop at any time and do not h
 **Watch the video below to learn how data donation tool works.**
 <div style="text-align: center; margin: 2rem 0;">
   <video controls style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;">
-    <source src="{{ '/assets/images/Qualtrics_instructions.mp4' | relative_url }}#t=28" type="video/mp4">
+    <source src="{{ '/assets/images/Qualtrics_instructions1.mp4' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
