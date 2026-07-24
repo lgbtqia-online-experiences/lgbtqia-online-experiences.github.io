@@ -24,6 +24,7 @@ You will be guided through the process of accessing and exporting your data from
 
 <a href="{{ '/assets/images/YouTube_instructions_PC_Mac.pdf' | relative_url }}" download>Download PDF</a>
 
+<!---
 ### Video
 
 **Watch the video below to learn how to export Youtube data.**
@@ -32,6 +33,7 @@ You will be guided through the process of accessing and exporting your data from
     <source src="{{ '/assets/images/Youtube_instructions.mp4' | relative_url }}" type="video/mp4">
   </video>
 </div>
+-->
 
 ## Donate your data
 
