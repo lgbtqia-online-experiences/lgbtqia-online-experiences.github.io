@@ -33,7 +33,7 @@ You will be guided through the process of accessing and exporting your data from
 **Watch the video below to learn how tp export TikTok data.**
 <div style="text-align: center; margin: 2rem 0;">
   <video controls style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;">
-    <source src="{{ '/assets/tiktok_txt.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/images/tiktok_txt.mp4' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
