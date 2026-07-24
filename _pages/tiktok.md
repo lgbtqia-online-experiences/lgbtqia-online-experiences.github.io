@@ -19,21 +19,21 @@ Before beginning, please make sure you have:
 You will be guided through the process of accessing and exporting your data from TikTok. 
 
 ## Instructions 
-
+<!---
 ### Desktop
 
-<a href="{{ '/assets/images/TikTok_instructions_desktop.pdf' | relative_url }}" download>Download PDF</a>
-
+<a href="{{ '/assets/images/TikTok_instructions_desktop_TXT_updated.pdf' | relative_url }}" download>Download PDF</a>
+--->
 ### Phone
 
-<a href="{{ '/assets/images/TikTok_instructions_phone.pdf' | relative_url }}" download>Download PDF</a>
+<a href="{{ '/assets/images/TikTok_instructions_desktop_TXT_updated.pdf' | relative_url }}" download>Download PDF</a>
 
 ### Video
 
 **Watch the video below to learn how tp export TikTok data.**
 <div style="text-align: center; margin: 2rem 0;">
   <video controls style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;">
-    <source src="{{ '/assets/TikTok_instructions.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/tiktok_txt.mp4' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
