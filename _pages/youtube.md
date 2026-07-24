@@ -22,7 +22,7 @@ You will be guided through the process of accessing and exporting your data from
 
 ### Desktop 
 
-<a href="{{ '/assets/images/YouTube_instructions_PC_Mac.pdf' | relative_url }}" download>Download PDF</a>
+<a href="{{ '/assets/images/YouTube_instructions_PC_Mac_updated.pdf' | relative_url }}" download>Download PDF</a>
 
 <!---
 ### Video
